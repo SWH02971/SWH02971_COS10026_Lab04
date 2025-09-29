@@ -8,6 +8,70 @@ created: 26/09/2025
 
 last modified: 26/09/2025
 
-description:
+description: lab04.html
 
 */
+
+/* 
+CSS Style rule:
+selector { 
+    property1: value1; 
+    property2: value2;
+}
+*/
+
+h1 { 
+    color: purple; 
+    font-size: 2em; 
+    font-weight: bold; 
+}
+
+* { font-family: calibri, sans-serif; } 
+
+nav a{
+    color: black;
+    text-decoration: none;
+    padding:0.2em 0.6em;
+    border: 4px solid #ccc;
+}
+
+article aside p{
+    font-style: italic;
+}
+
+article h2{
+    color: #448c8c; 
+    font-size: 2em; 
+    font-weight: bold; 
+}
+
+.head3{
+    color: red;
+}
+
+.special{
+    color: orange;
+}
+
+th{
+    font-weight: bold;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 8px 12px;
+}
+
+a {
+  color: black;     
+  text-decoration: underline;    
+}
+
+#images{
+    text-align: center;
+}
+
+a img {
+    width: 150px;
+    height: 100%;
+}
