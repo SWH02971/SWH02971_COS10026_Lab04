@@ -34,6 +34,10 @@ nav a{
     padding:0.2em 0.6em;
     border: 4px solid #ccc;
 }
+nav a:hover{
+    background-color: lightblue;
+    border-color: darkblue;
+}
 
 article aside p{
     font-style: italic;
