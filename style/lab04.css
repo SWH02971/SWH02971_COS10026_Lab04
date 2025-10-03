@@ -39,6 +39,11 @@ nav a:hover{
     border-color: darkblue;
 }
 
+aside, footer { font-style: italic; }  
+aside:hover {
+    display: none;
+}
+
 article aside p{
     font-style: italic;
 }
